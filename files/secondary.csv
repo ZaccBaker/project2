@@ -1,0 +1,125 @@
+Regular,Normal,Prime,Prime parts needed,Mastery
+,,,,
+Acrid,x,-,-,n
+Aegrit,o,-,-,-
+Afuris,o,-,-,n
+Akarius,o,-,-,-
+Akbolto,o,o,Barrel:1;Receiver:1,n
+Akbronco,x,x,-,b
+Akjagara,x,o,Barrel:2;Receiver:2,
+Aklato,o,-,-,n
+Aklex,o,o,BP;Link:1:Lex Prime (see lex prime for parts):2,n
+Akmagnus,x,-,-,-
+Aksomati,x,x,-,b
+Akstiletto,o,o,Barrel:2;Receiver:2;Link1,n
+Akvasto,x,o,BP; Link:1;Vasto Prime (see vasto prime for parts):2,n
+Akzani,x,-,-,n
+Angstrum,x,-,-,n
+Arca Scisco,x,-,-,-
+Athodai,o,-,-,-
+Atomos,o,-,-,n
+Azima,o,-,-,-
+Ballistica,o,o,BP; Lower Limb:1;Upper Limb:1; Receiver:1,n
+Bolto,o,-,-,n
+Brakk,x,-,-,-
+Bronco,o,o,-,b
+Castanas,x,-,-,n
+Catabolyst,o,-,-,-
+Cestra,o,-,-,n
+Cyanex,x,-,-,n
+Cycron,x,-,-,n
+Despair,o,-,-,-
+Detron,o,-,-,-
+Dex Furis,x,-,-,n
+Dual Cestra,x,-,-,-
+Dual Toxocyst,x,-,-,n
+Embolist,x,-,-,-
+Epitaph,o,-,-,-
+Euphona,,x,-,p
+Furis,x,-,-,n
+Fusilai,x,-,-,n
+Gammacor,o,-,-,n
+Hikou,o,o,BP;Stars:1,n
+Hystrix,x,o,BP; Barrel:1,n
+Knell,o,x,-,-
+Kohmak,x,-,-,-
+Kompressa,x,-,-,-
+Kraken,o,-,-,n
+Kulstar,o,-,-,-
+Kunai,o,-,-,n
+Laetum,x,-,-,-
+Lato,o,-,-,n
+Lex,x,x,BP:2;Barrel:2;Receiver:2,b
+Magnus,o,o,Barrel:1,n
+Mara Detron,o,-,-,-
+Marelok,x,-,-,-
+MK1-Furis,o,-,-,n
+MK1-Kunai,o,-,-,n
+Nukor,x,-,-,-
+Ocucor,o,-,-,-
+Pandero,o,o,Receiver:1,-
+Plinx,x,-,-,-
+Pox,o,-,-,-
+Pyrana,x,o,BP; Receiver:1,n
+Quatz,x,-,-,n
+Rakta Ballistica,o,-,-,-
+Sancti Castanas,o,-,-,-
+Secura Dual Cestra,o,-,-,-
+Seer,o,-,-,-
+Sepulcrum,o,-,-,-
+Sicarus,x,o,BP; Barrel:1; Receiver:1,n
+Sonicor,x,-,-,n
+Spectra,x,-,-,-
+Spira,x,o,BP;Pouch:2;Blade:2,n
+Staticor,o,-,-,-
+Stubba,x,-,-,-
+Stug,o,-,-,n
+Synoid Gammacor,o,-,-,-
+Talons,x,-,-,-
+Telos Akbolto,o,-,-,-
+Tysis,x,-,-,-
+Vasto,o,o,BP:2;Barrel:2;Receiver:2,n
+Vaykor Marelok,x,-,-,n
+Velox,x,-,-,-
+Viper,o,-,-,n
+Zakti,o,x,-,p
+Zylok,o,-,-,-
+Zymos,o,-,-,-
+,,,,
+Main variants,,,,
+,Have,Mastery,,
+Kuva,,,,
+Kuva Brakk,o,-,,
+Kuva Kraken,o,-,,
+Kuva Nukor,o,-,,
+Kuva Seer,o,-,,
+Kuva Twin Stubbas,o,-,,
+,,,,
+Tenet,,,,
+,,,,
+Tenet Cycron,o,-,,
+Tenet Detron,o,-,,
+Tenet Diplos,o,-,,
+Tenet Spirex,o,-,,
+,,,,
+Twin,,,,
+,,,,
+Twin Grakatas,o,-,,
+Twin Gremlins,x,x,,
+Twin Kohmak,o,-,,
+Twin Rogga,x,x,,
+Twin Vipers,o,-,,
+,,,,
+Misc variants,,,,
+,,,,
+Vandal,,,,
+Lato Vandal,o,-,,
+Spectra Vandal,o,-,,
+,,,,
+Prisma,,,,
+Prisma Angstrum,o,-,,
+Prisma Twin Gremlins,o,-,,
+,,,,
+Wraith,,,,
+Viper Wraith,o,-,,
+Twin Vipers Wraith,o,-,,
